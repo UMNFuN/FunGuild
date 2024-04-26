@@ -1,7 +1,7 @@
 <h1>FUNGuild: Fungi + fUNctional + Guild</h1>
 
 <h2>We continue to work behind the scenes to provide updates and support for the FUNGuild Database.
-We expect to release the next version of the database in Spring 2024. Currently, the database includes over 13,000 fungal taxa!
+We expect to release the next version of the database in Summer 2024. Currently, the database includes over 13,000 fungal taxa!
 
 <h3>Quick start</h3>
 
@@ -38,7 +38,7 @@ Nguyen NH, Song Z, Bates ST, Branco S, Tedersoo L, Menke J, Schilling JS, Kenned
 
 ****
 
-<b>Contributors:</b> Michelle Afkhami, Carlos Aguilar-Trigueros, Scott T. Bates, Sarah Branco, Posy Busby, Natalie Christian, Will Cornwell, Zachary Foster, Fukasawa Fu, Romina Gazis, Rannveig Jacobsen, Peter Kennedy, Daniel Lindner, Jon Menke, Amy Milo, Sara Moss, Nhu Nguyen, Henrik Nilsson, Jonathan Reich, Jonathan Schilling, Zewei Song, Jennifer Talbot, Leho Tedersoo, Nathaniel Tobey, Will VanHook, and Amy Zanne
+<b>Contributors:</b> Michelle Afkhami, Carlos Aguilar-Trigueros, Scott T. Bates, Sarah Branco, Posy Busby, Natalie Christian, Will Cornwell, Zachary Foster, Fukasawa Fu, Romina Gazis, Emily Hodgson, Rannveig Jacobsen, Peter Kennedy, Daniel Lindner, Jon Menke, Amy Milo, Sara Moss, Nhu Nguyen, Henrik Nilsson, Jonathan Reich, Jonathan Schilling, Zewei Song, Jennifer Talbot, Leho Tedersoo, Nathaniel Tobey, Will VanHook, and Amy Zanne
 
 ****
 
